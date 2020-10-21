@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Highcharts from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
-import Api from './Api';
+import Api from './Api.js';
 
 const prefectureGenerateApiUrl = 'https://opendata.resas-portal.go.jp/api/v1/prefectures';
 const apiKey = Api
