@@ -1,1 +1,0 @@
-export default 'GP8H0VCah10PPS53Pewaf8Epb29rB1m4l5hOtyDO'
