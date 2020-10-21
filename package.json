@@ -2,7 +2,6 @@
   "name": "resas-app",
   "version": "0.1.0",
   "private": true,
-  "web": "npm start",
   "homepage": "./",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -15,7 +14,6 @@
     "react-scripts": "3.4.4"
   },
   "scripts": {
-    "postinstall": "gulp browserify",
     "start": "node src/index.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
